@@ -1,6 +1,6 @@
-###  Olá! Eu sou o Augusto 😎
+#  Olá! Eu sou o Augusto 😎
 
-##  Estudante CST Análise e Desenvolvimento de Sistemas
+####  Estudante CST Análise e Desenvolvimento de Sistemas
 ###
 <div>
  
