@@ -1,4 +1,4 @@
-### Sou  Augusto Pires 😎
+### Augusto Pires se apresentando!!! 😎
 
 ####  Estudante CST Análise e Desenvolvimento de Sistemas
 ###
